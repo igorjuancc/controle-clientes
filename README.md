@@ -61,10 +61,10 @@ git clone https://github.com/igorjuancc/controle-clientes.git
       </tr>
       <tr>
         <td>
-          <img height="250vh" width="600vw" src="https://github.com/igorjuancc/documentacao/blob/main/SGR/Telas/Morador/LoginMorador%20-%201.1.PNG" />
+          <img height="150vh" width="600vw" src="https://github.com/igorjuancc/controle-clientes/blob/main/Telas/lista.png" />
         </td>
         <td>
-          <img height="250vh" width="600vw" src="https://github.com/igorjuancc/documentacao/blob/main/SGR/Telas/1.LoginFuncionario.PNG" />
+          <img height="250vh" width="600vw" src="https://github.com/igorjuancc/controle-clientes/blob/main/Telas/form.png" />
         </td>
       </tr>  
     </table> 
