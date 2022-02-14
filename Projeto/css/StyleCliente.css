@@ -1,0 +1,39 @@
+body{
+    background: url("background/back.jpg");
+    background-size: 100vw 100vh;
+}
+
+/*----------------------------------- CONTEUDO -------------------------------*/
+
+.icone{
+    text-align: center;
+}
+
+.row{
+  margin: 0;
+}
+
+.boxForm{
+  margin-top: 5vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  color: white;
+  border-radius: 10px;
+}
+
+h3{
+  margin: 0;
+  margin-bottom: 5vh;
+  border-bottom: 1px solid white;
+}
+
+.divBtn{
+  text-align: right;
+}
+
+/*------------------------------- Campos Erro --------------------------------*/
+
+.inputErro{
+    border: 1px solid red;
+    box-shadow: 1px 1px 10px red;
+}

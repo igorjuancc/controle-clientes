@@ -1,0 +1,40 @@
+body{
+    background: url("background/back.jpg");
+    background-size: 100vw;
+    background-repeat: repeat;
+}
+
+.formCad{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 65vw;
+    margin-left: 19vw;
+    padding: 20px;
+    margin-top: 8vh;
+    color: white;
+}
+
+.spanForm{
+    font-weight: bold;
+    display: block;
+    margin-top: 1vh;
+}
+
+h2, h4{
+   border-bottom: 2px solid;
+}
+
+h2{
+    margin-top: 0;
+}
+
+.divBtn{
+    text-align: center;
+    margin-top: 2vh;
+}
+
+/*------------------------------- Campos Erro --------------------------------*/
+
+.inputErro{
+    border: 1px solid red;
+    box-shadow: 1px 1px 10px red;
+}
